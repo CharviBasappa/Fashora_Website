@@ -40,6 +40,8 @@ npm install
 
 ```sh
 npm install react-router-dom react-toastify
+npm install -D tailwindcss-cli
+npx tailwindcss-cli init -p
 ```
 
 #### 6. Run the development server:
